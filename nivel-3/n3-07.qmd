@@ -1,0 +1,3 @@
+# N3-07 - Operaciones sobre listas {#sec-n3-07}
+
+*Contenido en preparación.*

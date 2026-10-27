@@ -1,0 +1,3 @@
+# N1-11 - Separación entre interfaz de usuario y lógica del programa {#sec-n1-11}
+
+*Contenido en preparación.*

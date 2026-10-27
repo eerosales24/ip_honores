@@ -1,0 +1,3 @@
+# N1-06 - Funciones de Python (Matemáticas y de entrada-salida) {#sec-n1-06}
+
+*Contenido en preparación.*

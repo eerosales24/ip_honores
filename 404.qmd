@@ -1,0 +1,7 @@
+---
+title: "Página no encontrada"
+---
+
+La página que buscas no existe o cambió de dirección.
+
+[Volver al inicio del libro](index.qmd)

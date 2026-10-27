@@ -1,0 +1,3 @@
+# N1-02 - Valores y tipos de dato {#sec-n1-02}
+
+*Contenido en preparación.*

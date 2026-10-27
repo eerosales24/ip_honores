@@ -1,0 +1,562 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción a la Programación - Honores",
+    "section": "",
+    "text": "Presentación\nEste libro acompaña el curso Introducción a la Programación - Honores. Está organizado en cuatro niveles:\n\nNivel 1 - Descubriendo el mundo de la programación\nNivel 2 - Tomando decisiones\nNivel 3 - Repitiendo acciones y manejando estructuras de datos\nNivel 4 - Solucionando problemas con matrices y librerías",
+    "crumbs": [
+      "Presentación"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html",
+    "href": "nivel-1/n1-01.html",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "",
+    "text": "Algoritmo\nVideo de contexto (YouTube)",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#algoritmo",
+    "href": "nivel-1/n1-01.html#algoritmo",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "",
+    "text": "Secuencia de instrucciones\n\nClaras y ordenadas\n\nResuelven → Problema\n\nProducen → Salida\n\nPara → Entrada dada",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#comunicar-un-algoritmo",
+    "href": "nivel-1/n1-01.html#comunicar-un-algoritmo",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Comunicar un algoritmo",
+    "text": "Comunicar un algoritmo\n\nA humanos → Lenguaje natural\n\n\n\n\n\n\n\nA computadores → Lenguajes de programación",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#lenguaje-y-código",
+    "href": "nivel-1/n1-01.html#lenguaje-y-código",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Lenguaje y código",
+    "text": "Lenguaje y código\n\nLenguaje de programación:\n\nNotación para expresar algoritmos\n\nCódigo fuente:\n\nInstrucciones escritas en ese lenguaje\n\nComprensibles → Humanos\n\nBase → Programa",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#programa",
+    "href": "nivel-1/n1-01.html#programa",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Programa",
+    "text": "Programa\n\nInstrucciones precisas y ordenadas\n\nIndican al computador cómo ejecutar\n\nTareas específicas\n\n\nInstrucción:\n\nComando → Computador interpreta",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#programación",
+    "href": "nivel-1/n1-01.html#programación",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Programación",
+    "text": "Programación\n\n“Computer programming is an art… A programmer who subconsciously views himself as an artist, will enjoy what he does and will do it better.”\n— Donald Knuth",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#programador-y-programación",
+    "href": "nivel-1/n1-01.html#programador-y-programación",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Programador y programación",
+    "text": "Programador y programación\n\nProgramador\n\n“Artista” cuyo oficio es la programación\n\nProgramación\n\n“Arte” de crear un programa",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#lenguaje-y-algoritmos",
+    "href": "nivel-1/n1-01.html#lenguaje-y-algoritmos",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Lenguaje y algoritmos",
+    "text": "Lenguaje y algoritmos\n\nAlgoritmos → Independientes del lenguaje\n\nSe pueden expresar (al menos) en:\n\nLenguaje natural\nLenguajes de programación",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#python",
+    "href": "nivel-1/n1-01.html#python",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Python",
+    "text": "Python\n\nLenguaje de programación\n¿Por qué aprender Python?\n\nEs muy importante en la actualidad…\n\n\n\n\n\n\n\n\n\nFuente del ícono: Python Software Foundation.\n\n\n\nPopularidad de los lenguajes (TIOBE)\n\n\n\n\n\n\n\nLos diez lenguajes principales del índice TIOBE. Fuente: TIOBE.\n\n\n\n\n\n\n\n\n\nLa misma gráfica con la línea de Python resaltada. Fuente: TIOBE.\n\n\n\n\nLenguajes más usados en GitHub (2026)\n\n\n\n\n\n\n\nFuente: GitHub.\n\n\n\n\nLenguajes que impulsan el desarrollo de IA (GitHub)\n\n\n\n\n\n\n\nFuente: GitHub.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#semántica-y-sintaxis-de-python",
+    "href": "nivel-1/n1-01.html#semántica-y-sintaxis-de-python",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "Semántica y sintaxis de Python",
+    "text": "Semántica y sintaxis de Python\n\nPython tiene:\n\nSintaxis → Cómo se escribe → Código\nSemántica → Qué significa → código\n\n\n\nEjemplo: suma\n\nSintaxis:\n\n¿Cómo se escribe en código una suma aritmética?\n\n\nprimer_operando + segundo_operando\n\nSemántica:\n\n¿Qué significa el anterior código?\n\nEl operador + implica la suma aritmética\n\nEntradas:\n\nprimer_operando\nsegundo_operando\n\nSalida:\n\nNuevo valor numérico",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#el-proceso-de-interpretación-en-python",
+    "href": "nivel-1/n1-01.html#el-proceso-de-interpretación-en-python",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "El proceso de interpretación en Python",
+    "text": "El proceso de interpretación en Python\n\n\n\n\n\n\nCódigo fuente (.py) → CPython (intérprete estándar de Python)\nCPython → bytecode\nBytecode → PVM (Python Virtual Machine)\nPVM → hardware\n\nNota: En Spyder, el código se ejecuta desde la consola IPython, que funciona sobre CPython.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#qué-pasaría-si-el-código-fuente-contiene-errores",
+    "href": "nivel-1/n1-01.html#qué-pasaría-si-el-código-fuente-contiene-errores",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "¿Qué pasaría si el código fuente contiene errores?",
+    "text": "¿Qué pasaría si el código fuente contiene errores?\nConsulta las diapositivas de Errores en Python:\n\nError y Excepción\nSyntaxError",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-01.html#metodología-en-espiral",
+    "href": "nivel-1/n1-01.html#metodología-en-espiral",
+    "title": "N1-01 - Descubriendo el mundo de la programación",
+    "section": "🌀 Metodología en espiral 🌀",
+    "text": "🌀 Metodología en espiral 🌀\n\nConceptos fundamentales\n\nSe explican → Múltiples veces",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>N1-01 - Descubriendo el mundo de la programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-02.html",
+    "href": "nivel-1/n1-02.html",
+    "title": "N1-02 - Valores y tipos de dato",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>N1-02 - Valores y tipos de dato</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-03.html",
+    "href": "nivel-1/n1-03.html",
+    "title": "N1-03 - Declaración de variables, instrucción de asignación y tipado dinámico",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>N1-03 - Declaración de variables, instrucción de asignación y tipado dinámico</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-04.html",
+    "href": "nivel-1/n1-04.html",
+    "title": "N1-04 - Expresiones, operadores aritméticos y operaciones sobre strings",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>N1-04 - Expresiones, operadores aritméticos y operaciones sobre strings</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-05.html",
+    "href": "nivel-1/n1-05.html",
+    "title": "N1-05 - Conversión de tipos",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>N1-05 - Conversión de tipos</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-06.html",
+    "href": "nivel-1/n1-06.html",
+    "title": "N1-06 - Funciones de Python (Matemáticas y de entrada-salida)",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>N1-06 - Funciones de Python (Matemáticas y de entrada-salida)</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-07.html",
+    "href": "nivel-1/n1-07.html",
+    "title": "N1-07 - Funciones y variables locales",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>N1-07 - Funciones y variables locales</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-09.html",
+    "href": "nivel-1/n1-09.html",
+    "title": "N1-09 - Estilo de programación",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>N1-09 - Estilo de programación</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-10.html",
+    "href": "nivel-1/n1-10.html",
+    "title": "N1-10 - Construcción e importación de módulos",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>N1-10 - Construcción e importación de módulos</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-1/n1-11.html",
+    "href": "nivel-1/n1-11.html",
+    "title": "N1-11 - Separación entre interfaz de usuario y lógica del programa",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 1 - Descubriendo el mundo de la programación",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>N1-11 - Separación entre interfaz de usuario y lógica del programa</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-01.html",
+    "href": "nivel-2/n2-01.html",
+    "title": "N2-01 - Introducción",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>N2-01 - Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-02.html",
+    "href": "nivel-2/n2-02.html",
+    "title": "N2-02 - Booleanos y sus operadores",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>N2-02 - Booleanos y sus operadores</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-03.html",
+    "href": "nivel-2/n2-03.html",
+    "title": "N2-03 - Tablas de verdad y álgebra booleana",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>N2-03 - Tablas de verdad y álgebra booleana</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-04.html",
+    "href": "nivel-2/n2-04.html",
+    "title": "N2-04 - Condicionales",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>N2-04 - Condicionales</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-05.html",
+    "href": "nivel-2/n2-05.html",
+    "title": "N2-05 - Leyes de De Morgan",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>N2-05 - Leyes de De Morgan</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-06.html",
+    "href": "nivel-2/n2-06.html",
+    "title": "N2-06 - Cadenas de caracteres",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>N2-06 - Cadenas de caracteres</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-07.html",
+    "href": "nivel-2/n2-07.html",
+    "title": "N2-07 - Operaciones sobre cadenas de caracteres",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>N2-07 - Operaciones sobre cadenas de caracteres</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-08.html",
+    "href": "nivel-2/n2-08.html",
+    "title": "N2-08 - Diccionarios operaciones básicas",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>N2-08 - Diccionarios operaciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-09.html",
+    "href": "nivel-2/n2-09.html",
+    "title": "N2-09 - Diccionarios mutabilidad, borrado de datos y parámetros por referencia",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>N2-09 - Diccionarios mutabilidad, borrado de datos y parámetros por referencia</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-2/n2-11.html",
+    "href": "nivel-2/n2-11.html",
+    "title": "N2-11 - Diccionarios para manejar elementos con las mismas características",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 2 - Tomando decisiones",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>N2-11 - Diccionarios para manejar elementos con las mismas características</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-02.html",
+    "href": "nivel-3/n3-02.html",
+    "title": "N3-02 - Instrucciones iterativas (while)",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>N3-02 - Instrucciones iterativas (while)</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-03.html",
+    "href": "nivel-3/n3-03.html",
+    "title": "N3-03 - Uso del centinela",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>N3-03 - Uso del centinela</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-04.html",
+    "href": "nivel-3/n3-04.html",
+    "title": "N3-04 - Más sobre strings",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>N3-04 - Más sobre strings</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-05.html",
+    "href": "nivel-3/n3-05.html",
+    "title": "N3-05 - Instrucciones iterativas (for)",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>N3-05 - Instrucciones iterativas (for)</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-06.html",
+    "href": "nivel-3/n3-06.html",
+    "title": "N3-06 - Introducción a listas",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>N3-06 - Introducción a listas</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-07.html",
+    "href": "nivel-3/n3-07.html",
+    "title": "N3-07 - Operaciones sobre listas",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>N3-07 - Operaciones sobre listas</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-08.html",
+    "href": "nivel-3/n3-08.html",
+    "title": "N3-08 - Patrones de recorrido",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>N3-08 - Patrones de recorrido</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-09.html",
+    "href": "nivel-3/n3-09.html",
+    "title": "N3-09 - Recorrido de diccionarios",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>N3-09 - Recorrido de diccionarios</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-10.html",
+    "href": "nivel-3/n3-10.html",
+    "title": "N3-10 - Manejo de archivos",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>N3-10 - Manejo de archivos</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-3/n3-11.html",
+    "href": "nivel-3/n3-11.html",
+    "title": "N3-11 - Estructura de datos compuestos",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 3 - Repitiendo acciones y manejando estructuras de datos",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>N3-11 - Estructura de datos compuestos</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-02.html",
+    "href": "nivel-4/n4-02.html",
+    "title": "N4-02 - Tuplas",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>N4-02 - Tuplas</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-03.html",
+    "href": "nivel-4/n4-03.html",
+    "title": "N4-03 - Estructuras de datos con tuplas",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>N4-03 - Estructuras de datos con tuplas</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-04.html",
+    "href": "nivel-4/n4-04.html",
+    "title": "N4-04 - Matrices",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>N4-04 - Matrices</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-06.html",
+    "href": "nivel-4/n4-06.html",
+    "title": "N4-06 - Introducción a librerías",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>N4-06 - Introducción a librerías</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-07.html",
+    "href": "nivel-4/n4-07.html",
+    "title": "N4-07 - Introducción a visualizaciones con Matplotlib",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>N4-07 - Introducción a visualizaciones con Matplotlib</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-08.html",
+    "href": "nivel-4/n4-08.html",
+    "title": "N4-08 - Pandas (series y operaciones sobre series)",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>N4-08 - Pandas (series y operaciones sobre series)</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-09.html",
+    "href": "nivel-4/n4-09.html",
+    "title": "N4-09 - DataFrames",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>N4-09 - DataFrames</span>"
+    ]
+  },
+  {
+    "objectID": "nivel-4/n4-10.html",
+    "href": "nivel-4/n4-10.html",
+    "title": "N4-10 - Visualización con pandas",
+    "section": "",
+    "text": "Contenido en preparación.",
+    "crumbs": [
+      "Nivel 4 - Solucionando problemas con matrices y librerías",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>N4-10 - Visualización con pandas</span>"
+    ]
+  }
+]

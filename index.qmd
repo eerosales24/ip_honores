@@ -1,0 +1,8 @@
+# Presentación {.unnumbered}
+
+Este libro acompaña el curso *Introducción a la Programación - Honores*. Está organizado en cuatro niveles:
+
+1. [Nivel 1 - Descubriendo el mundo de la programación](nivel-1/n1-01.qmd)
+2. [Nivel 2 - Tomando decisiones](nivel-2/n2-01.qmd)
+3. [Nivel 3 - Repitiendo acciones y manejando estructuras de datos](nivel-3/n3-02.qmd)
+4. [Nivel 4 - Solucionando problemas con matrices y librerías](nivel-4/n4-02.qmd)

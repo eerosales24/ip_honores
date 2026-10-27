@@ -1,0 +1,77 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+lang: es
+
+book:
+  title: "Introducción a la Programación - Honores"
+  author: "Eduardo Rosales"
+  site-url: https://eerosales24.github.io/ip_honores/
+  repo-url: https://github.com/eerosales24/ip_honores
+  repo-branch: main
+  chapters:
+    - index.qmd
+    - part: "Nivel 1 - Descubriendo el mundo de la programación"
+      chapters:
+        - nivel-1/n1-01.qmd
+        - nivel-1/n1-02.qmd
+        - nivel-1/n1-03.qmd
+        - nivel-1/n1-04.qmd
+        - nivel-1/n1-05.qmd
+        - nivel-1/n1-06.qmd
+        - nivel-1/n1-07.qmd
+        - nivel-1/n1-09.qmd
+        - nivel-1/n1-10.qmd
+        - nivel-1/n1-11.qmd
+    - part: "Nivel 2 - Tomando decisiones"
+      chapters:
+        - nivel-2/n2-01.qmd
+        - nivel-2/n2-02.qmd
+        - nivel-2/n2-03.qmd
+        - nivel-2/n2-04.qmd
+        - nivel-2/n2-05.qmd
+        - nivel-2/n2-06.qmd
+        - nivel-2/n2-07.qmd
+        - nivel-2/n2-08.qmd
+        - nivel-2/n2-09.qmd
+        - nivel-2/n2-11.qmd
+    - part: "Nivel 3 - Repitiendo acciones y manejando estructuras de datos"
+      chapters:
+        - nivel-3/n3-02.qmd
+        - nivel-3/n3-03.qmd
+        - nivel-3/n3-04.qmd
+        - nivel-3/n3-05.qmd
+        - nivel-3/n3-06.qmd
+        - nivel-3/n3-07.qmd
+        - nivel-3/n3-08.qmd
+        - nivel-3/n3-09.qmd
+        - nivel-3/n3-10.qmd
+        - nivel-3/n3-11.qmd
+    - part: "Nivel 4 - Solucionando problemas con matrices y librerías"
+      chapters:
+        - nivel-4/n4-02.qmd
+        - nivel-4/n4-03.qmd
+        - nivel-4/n4-04.qmd
+        - nivel-4/n4-06.qmd
+        - nivel-4/n4-07.qmd
+        - nivel-4/n4-08.qmd
+        - nivel-4/n4-09.qmd
+        - nivel-4/n4-10.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    number-sections: false
+    toc: true
+    code-copy: true
+    lightbox: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

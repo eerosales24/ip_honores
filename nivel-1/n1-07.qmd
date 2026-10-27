@@ -1,0 +1,3 @@
+# N1-07 - Funciones y variables locales {#sec-n1-07}
+
+*Contenido en preparación.*

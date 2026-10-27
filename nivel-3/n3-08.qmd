@@ -1,0 +1,3 @@
+# N3-08 - Patrones de recorrido {#sec-n3-08}
+
+*Contenido en preparación.*

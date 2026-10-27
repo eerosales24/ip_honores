@@ -1,0 +1,3 @@
+# N1-03 - Declaración de variables, instrucción de asignación y tipado dinámico {#sec-n1-03}
+
+*Contenido en preparación.*
